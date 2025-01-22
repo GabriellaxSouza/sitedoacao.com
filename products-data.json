@@ -1,0 +1,93 @@
+[
+    {
+        "nome": "Arroz",
+        "preco": 5.00,
+        "quantidade": 1,
+        "imagem": "img/arroz.jpg"
+    },
+    {
+        "nome": "Feijão",
+        "preco": 6.50,
+        "quantidade": 1,
+        "imagem": "img/feijao.jpg"
+    },
+    {
+        "nome": "Açúcar",
+        "preco": 4.00,
+        "quantidade": 1,
+        "imagem": "img/acucar.jpg"
+    },
+    {
+        "nome": "Farinha de trigo",
+        "preco": 3.50,
+        "quantidade": 1,
+        "imagem": "img/farinha.jpg"
+    },
+    {
+        "nome": "Leite em pó",
+        "preco": 12.00,
+        "quantidade": 1,
+        "imagem": "img/leite-em-po.jpg"
+    },
+    {
+        "nome": "Legumes enlatados",
+        "preco": 7.00,
+        "quantidade": 1,
+        "imagem": "img/legumes.jpg"
+    },
+    {
+        "nome": "Bolacha",
+        "preco": 2.50,
+        "quantidade": 1,
+        "imagem": "img/bolacha.jpg"
+    },
+    {
+        "nome": "Café",
+        "preco": 8.00,
+        "quantidade": 1,
+        "imagem": "img/cafe.jpg"
+    },
+    {
+        "nome": "Sabão em pó",
+        "preco": 5.50,
+        "quantidade": 1,
+        "imagem": "img/sabao-em-po.jpg"
+    },
+    {
+        "nome": "Sabão em barra",
+        "preco": 1.20,
+        "quantidade": 1,
+        "imagem": "img/sabao-em-barra.jpg"
+    },
+    
+    {
+        "nome": "Desinfetante",
+        "preco": 6.00,
+        "quantidade": 1,
+        "imagem": "img/desinfetante.jpg"
+    },
+    {
+        "nome": "Detergente",
+        "preco": 3.00,
+        "quantidade": 1,
+        "imagem": "img/detergente.jpg"
+    },
+    {
+        "nome": "Esponja de lavar louça",
+        "preco": 1.00,
+        "quantidade": 1,
+        "imagem": "img/esponja.jpg"
+    },
+    {
+        "nome": "Papel higiênico",
+        "preco": 4.00,
+        "quantidade": 1,
+        "imagem": "img/papel.jpg"
+    },
+    {
+        "nome": "Água sanitária",
+        "preco": 2.50,
+        "quantidade": 1,
+        "imagem": "img/agua-sanitaria.jpg"
+    }
+]
